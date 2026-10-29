@@ -1,0 +1,17 @@
+SITE DA DRA. MARIANA PINOTTI — COMO PUBLICAR
+
+1. Publique a pasta inteira (index.html + img/ + robots.txt + sitemap.xml).
+   As imagens ficam na pasta img/ — o index.html sozinho abre sem fotos.
+
+2. Depois de ter o domínio, troque o texto
+      https://www.SEU-DOMINIO.com.br
+   pelo endereço real em: index.html, robots.txt e sitemap.xml
+   (no VS Code: Ctrl+Shift+H substitui em todos os arquivos de uma vez).
+
+3. Cadastre o site no Google Search Console e envie o sitemap.xml.
+
+4. No Google Meu Negócio, coloque o link do site e use EXATAMENTE:
+      Nome: Dra. Mariana Pinotti Virmieiro
+      Telefone: (66) 99652-1600
+      Horário: segunda a sexta, 8h às 17h
+      Categoria principal: Dentista
